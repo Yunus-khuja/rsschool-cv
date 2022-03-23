@@ -18,7 +18,7 @@ Last 5 years work in sales. Now learn Front-End Development in RS School.
 + CSS
 + JavaScript (Basic)
 + Git
-+ Figma
++ Figma (for developers)
 ********
 ### Code Examples
 ```javascript
