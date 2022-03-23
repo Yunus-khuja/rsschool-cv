@@ -1,11 +1,11 @@
-[]rs-schhol
+[rs-school](https://github.com/Yunus-khuja/rsschool-cv)
 # Ibrokhimjonov Yunuskhuja
 ********
 # My Contact Info:
 ********
 + **Phone:** +998 97 059 94 95
 + **E-mail:** xujanoza@gmail.com
-+ **GitHub:** [Yunus-khuja] (https://github.com/Yunus-khuja)
++ **GitHub:** [Yunus-khuja](https://github.com/Yunus-khuja)
 + **Telegram:** @xujanoza 
 + **Disocord:** Yunuskhuja#8153
 ********
