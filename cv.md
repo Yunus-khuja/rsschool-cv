@@ -1,4 +1,4 @@
-[rs-school](https://github.com/Yunus-khuja/rsschool-cv)
+## [rs-school](https://github.com/Yunus-khuja/rsschool-cv)
 # Ibrokhimjonov Yunuskhuja
 ********
 # My Contact Info:
